@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true character of an untrue bishop. With a recipe at the end, how to recover a bishop if hee were lost.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94989</idno>
+            <idno type="STC">Wing T2600</idno>
+            <idno type="STC">Thomason E173_17</idno>
+            <idno type="STC">ESTC R16200</idno>
+            <idno type="EEBO-CITATION">99859987</idno>
+            <idno type="PROQUEST">99859987</idno>
+            <idno type="VID">112092</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112092)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E173[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true character of an untrue bishop. With a recipe at the end, how to recover a bishop if hee were lost.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112092:1"/>
+            <!-- PDF PAGE 56 -->
+            <pb facs="tcp:112092:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 56 -->
+            <p>THE TRUE CHARACTER OF AN UNTRUE BISHOP.</p>
+            <p>WITH A Recipe at the end, how to recover a Biſhop if hee were loſt.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112092:2"/>
+            <!-- PDF PAGE 57 -->
+            <pb n="1" facs="tcp:112092:2"/>
+            <!-- PDF PAGE 57 -->
+            <head>THE TRUE CHARACTER OF AN Untrue Biſhop. With a <hi>Recipe</hi> at the end, how to recover a Biſhop if hee were loſt.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F you aske me of what calling hee is, I anſwer, I know not; for ſometimes I find him <hi>in Tribu<g ref="char:EOLhyphen"/>nali,</hi> in a Court of juſtice; ſometimes <hi>in ſuggeſto,</hi> in a Pulpit: In the firſt, ſo much againſt Gods will, in the ſecond, ſo much againſt his owne will, that as hee hath not a right to the one, hee prizeth not a right to the other. And what can I call this man?</p>
+            <p n="2">2 If you demand of what Religion hee is; I know not. Hee doth proteſt hee is not a Papiſt, and I would willingly beleeve him; yet hee perſecutes Proteſtants, and ſo I muſt neceſſarily doubt him. Hee is to me like the Pictures, which by ſeverall lights, hold forth a ſeverall repreſentation: On the one ſide you ſee a pleaſant Angel, on the other ſide a grim Satyr.</p>
+            <p n="3">3 Hee alwayes either acteth or commandeth contradictions:
+<pb n="2" facs="tcp:112092:3"/>
+               <!-- PDF PAGE 58 -->For hee calls a Puritan an hypocrite, becauſe hee uſeth long prayers; and yet placeth all his religion in a daily Service of two houres long.</p>
+            <p n="4">4 Hee diſclaimes Popery, and yet challengeth his function by ſucceſſion from the Pope, who lineally deſcends from <hi>Peter;</hi> though (like the Pope) hee ſucceeds <hi>Peter</hi> in nothing but denying his Maſter.</p>
+            <p n="5">5 Hee cryeth, No Biſhop, no King; thereby profeſſing Epiſ<g ref="char:EOLhyphen"/>copacy the chiefe hand-maid of Monarchy; and yet exerciſeth, contrary to law, regall juriſdiction in his owne name, and his own Courts. Is not this ſlily to ſupplant Monarchy?</p>
+            <p n="6">6 Hee is a true patterne of <hi>Judas,</hi> who of all the Apoſtles is ſtiled a Biſhop; for hee cryeth, <hi>Haile Master, King of the Jewes,</hi> and then kiſſeth him with a treacherous deſigne. Juſt as an Ele<g ref="char:EOLhyphen"/>phant, who croucheth to his Maſter, till the youthfull blood doth begin, <hi>ebullire,</hi> to boyle in his veins, and then hee tramples upon him.</p>
+            <p n="7">7 Hee ſaith that Miracles are ceaſed long agoe, though hee worketh miracles every day: For hee maintaineth univerſall grace, and yet forbiddeth preaching, the meanes of grace.</p>
+            <p n="8">8 Hee inſtitutes (<hi>quo jure</hi> I know not) Saints dayes, or holy dayes, and yet will not permit any holineſſe that day, either in our generall or particular calling: For work, men may not; and heare Sermons they cannot, there being none.</p>
+            <p n="9">9 Hee exceedingly magnifieth that ſweet and holy prayer, that prayer which is moſt full of ſtrength and affection, which is the patterne of prayer, the Lords prayer; and yet maketh this the meanes whereby hee would take away all uſe of prayer, while he wrappeth up all in that, and makes that a pillar to uphold his No-prayer, his Bidding-prayer.</p>
+            <p n="10">10 Hee feareth and ſhunneth Croſſes as much as another man, and yet maketh the Croſſe a maine <hi>(medium)</hi> means of all his de<g ref="char:EOLhyphen"/>votions.</p>
+            <p n="11">
+               <pb n="3" facs="tcp:112092:3"/>
+               <!-- PDF PAGE 58 -->
+11 Hee contends with the two Witneſſes, <hi>Reve.</hi> 11.10. as the Magicians of Egypt did with <hi>Moſes</hi> and <hi>Aaron,</hi> who ſhould be moſt powerfull in Miracles: They, during the time of their pro<g ref="char:EOLhyphen"/>phecy, ſhut up heaven that it raine not; Hee, during the time of his dominion, commands the malignant Intelligences, that plagues, murrains, famines, new diſeaſes fall downe no leſſe frequently, than haile, raine, or ſnow.</p>
+            <p n="12">12 And as hee worketh miracles, ſo miracles are wrought upon him; for hee is all this while, <hi>Talpâ cacior,</hi> blinder than a Mole, and ſeeth not, that all his efforts are but that rage which the Prince of the ayre muſt expreſſe, as his time haſteneth, are but the Bi<g ref="char:EOLhyphen"/>ſhop his laſt thruſts: For Romes Civill and Eccleſiaſticall tyran<g ref="char:EOLhyphen"/>ny, with all the dependances thereof, are falling, like a milſtone into the ſea; God being now ready to poure, or in pouring out the fifth viall. But all this hee ſeeth not, elſe (as <hi>Solomon</hi> ſaith, <hi>Goe to the Ant thou ſluggard</hi>) hee would learn even with Rats and Mice, to withdraw from the tottering houſe of this his Hierarchy, un<g ref="char:EOLhyphen"/>warranted in Scripture. Hee hath eyes and ſeeth not, eares and heareth not, and ſo is it with all thoſe that liſten to him. But light is comming, and (which is the greateſt miracle of all) they who are the maine enimies, ſhall be chiefe authours of a moſt glorious Reformation, and that by oppoſing it.</p>
+            <p n="13">13 Hee thought with his Predeceſſor, the Pope, not to have left Lay men other helps in Divinity than Imagery, calling Ima<g ref="char:EOLhyphen"/>ges Lay mens bookes. But Lay men have of late ſo outſtript him in that ſtudy, that all Epiſcopall Theologie concentred in one, will bee but the Image of the true Divinity, which may bee found a<g ref="char:EOLhyphen"/>mongſt Lay men. Witneſſe thoſe mighty Comments made by ſome worthy members, of the moſt honourable aſſembly of the houſe of Commons, upon thoſe Monſtrous, Babiloniſh, Menſtru<g ref="char:EOLhyphen"/>ous Cannons of theirs, which have nothing good in them but this, that by their eminency in their kind, they have not left poſterity a poſſibility of exceeding them.</p>
+            <p n="14">14 He, by his conſecration, makes holy that which God hath made common; as Bells, Bel ropes, Candles, Corporalls and Al<g ref="char:EOLhyphen"/>tars: <hi>Orpheus</hi> could advance from vegetative to ſenſitive; for
+<pb n="4" facs="tcp:112092:4"/>
+               <!-- PDF PAGE 59 -->plants and trees were raviſhed by the ſweet and charming touch of his inſtrument; But a Biſhop can doe more: That which is common, hee maketh holy.</p>
+            <p n="15">15 Hee againe can abaſe that which God hath exalted: For by execration hee doth anathematize the ſoules of moſt pretious Saints. By his conſecration hee doth advance: By his execrati<g ref="char:EOLhyphen"/>on hee doth abaſe: And who may controle him?</p>
+            <q xml:lang="lat">Diviſum imperium cum Jove Papa tenet.</q>
+            <q>The Pope reignes as God.</q>
+            <p n="16">16 Hee puts holineſſe into the ſtones of the Temple, and it is hee that rendreth unholy, that maketh ſtony his owne heart and the hearts of his followers, which men call the viſible Tem<g ref="char:EOLhyphen"/>ples of the holy Ghoſt: Witneſſe his many Sparrowiſh, Wren-like wanton extravagances which wee meet with from men of that coat in our Committees, and have knowne complained of in the high Commiſſion.</p>
+            <q xml:lang="lat">Diviſum imperium cum Jove Praſul habet.</q>
+            <q>The Biſhop reignes as God.</q>
+            <p n="17">17 Hee is learned in almoſt all arts and ſciences: Hee is an excellent judiciall Aſtrologer; for whereas <hi>Picus Mirandula, Julius Caeſar, Cornelius à Lapide, cum multis aliis,</hi> deny any certaine knowledge of our condition by the influence of cele<g ref="char:EOLhyphen"/>ſtiall bodies, hee ſaith boldly and truly, Let him bee but under the gracious aſpect of <hi>Charles</hi> his Waine, and hee is confident all will doe well.</p>
+            <p n="18">18 He is no leſſe skilfull in the Metaphyſicks, for whilſt hee hold unitie,<note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſe words, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſenteth, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> to the end <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the 18. ſtaffe <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e to be read <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the end of <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e 19<g ref="char:punc">▪</g> ſtaffe.</note> veritie, and bonitie, <hi>termini convertibiles,</hi> divers names expreſſing the ſame thing, finding unity in the Papall Hierarchy, he concludes, that we muſt goe to <hi>Rome</hi> for truth and goodneſſe. He diſſenteth not much from the Jeſuites, who are altogether Pa<g ref="char:EOLhyphen"/>racelſians, in as much as they make famous thoſe three Principles,
+<pb n="5" facs="tcp:112092:4"/>
+               <!-- PDF PAGE 59 -->Sal, Mercury, and Sulphur: Salt they make the principall of all Chriſtianity in their baptiſme; Mercury, the father of lies and equivocations, is to them the Principle of all doctrine and pra<g ref="char:EOLhyphen"/>ctice; they laid Sulphur, or Gunpowder, under the Parliament houſe for a Principle of Reformation in England.</p>
+            <p n="19">19 He is a rare Phyſician; whilſt ſome contend for <hi>Hippocra<g ref="char:EOLhyphen"/>tes</hi> and <hi>Galen</hi> their way, ſome for <hi>Paracelſus,</hi> he concludes, that <hi>Paracelſus</hi> is better, and ſo dealeth wholly in Spirits, leaving none that come within his Courts any thing more than skin and bone: yea, by this his art he can turne any thing into gold, making mo<g ref="char:EOLhyphen"/>ney of every body that cometh within his reach.</p>
+            <p n="20">20 He is well verſed in morall Philoſophy: whilſt the Moraliſt doth diſpute, <hi>
+                  <g ref="char:V">Ʋ</g>trum prudentia ſit virtus moralis, an intellectualis,</hi> he denieth any ſuch vertue at all, elſe ſure he would never have ventured his glorious calling for his vote in Parliament; for by ſtriving to keep the one, he is like to loſe both.</p>
+            <p n="21">21 He knoweth that what is <hi>ultimum in executione,</hi> is <hi>pri<g ref="char:EOLhyphen"/>mum in intentione,</hi> laſt in execution, firſt in intention; and ſo hee being by a cure of ſoules inveſted into <hi>Officium &amp; Beneficium,</hi> Of<g ref="char:EOLhyphen"/>fice and benefice, his mind his wholly bent upon the laſt.</p>
+            <p n="22">22 Hee knoweth very well the weight of a Circumſtance, knoweth that that which is in one art a Ceremony, in another is a Subſta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce; and therefore puniſheth the breach of a Ceremony with ſuſpenſion, excommunication, deprivation, whilſt forni<g ref="char:EOLhyphen"/>cation and adultery are committed many times for foure ſhil<g ref="char:EOLhyphen"/>lings.</p>
+            <p n="23">23 He is a good Mathematician, he hath found out <hi>Quadra<g ref="char:EOLhyphen"/>turam Circuli,</hi> ſquaring of a Circle: for our Iland and Crowne were <hi>tantum non,</hi> almoſt wholly with the whole world reduced in obedience to his ſquare Cap.</p>
+            <p n="24">24 In the midſt of all this learning, he is of a very tender conſci<g ref="char:EOLhyphen"/>ence: In obſerving that ſome thoughtleſſe Chriſtians did neglect their particular calling by Sermon-hunting, and ſo began to ido<g ref="char:EOLhyphen"/>lize
+<pb n="6" facs="tcp:112092:5"/>
+               <!-- PDF PAGE 60 -->preaching, he imitateth good <hi>Hezekiah,</hi> and taketh away the Brazen Serpent, taketh away Sermons.</p>
+            <p n="25">25 He obſerveth the Scripture in the Spirit of it, uſeth his greateſt Adverſaries with moſt meekneſſe; I meane, the Separati<g ref="char:EOLhyphen"/>on, and the Non-conformiſts; concluding, that diverſitie of o<g ref="char:EOLhyphen"/>pinions will beget their ruine, and eſtabliſh him in his ſta<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="26">26 He is a great imitator of Saint <hi>Paul,</hi> he becomes all to all that he may, if poſſible, win ſome; for he is ſomething of a <hi>Lu<g ref="char:EOLhyphen"/>theran</hi> in the Ceremonies, ſomething of a Calviniſt in doctrine, a Popiſh Diſciplinarian in all things but ſelf-whipping.</p>
+            <p n="27">27 He is halfe a Preciſian in the outward man. He loveth lit<g ref="char:EOLhyphen"/>tle bands, ſhort haire, grave lookes; but had rather be ſlaine at Tiburne, than preach in a cloake (though <hi>Paul</hi> ſent for his on ſome ſuch occaſion from <hi>Treas</hi>) or ſtand at the end of a Table, he is ſo unacquainted with preaching either there, or elſewhere.</p>
+            <p n="28">28 He is halfe a Preciſian in the inward man, abſtaineth from blood (by the Canon law he may not vote in blood) and meat offered to Idols, for there is no ſuch in the Shambles. But what his judgement is for things ſtrangled, our Priſons can tell, where many a good Miniſter hath beene pined and ſtarved. And for fornication, you may judge by his commutation, which ſhould goe to the poore, but ſerveth his wife for pins.</p>
+            <p n="29">29 He is halfe a Jew, he contends for Prieſts and Altars, though he will not uſe the word Sabbath, leſt he ſhould judaize throughout.</p>
+            <p n="30">30 In all theſe complying like a wiſe man, he is true to him<g ref="char:EOLhyphen"/>ſelfe. For though he ſaith the fourth Commandement is <hi>jure hu<g ref="char:EOLhyphen"/>mano,</hi> yet he ſaith Biſhops are <hi>jure divino.</hi>
+            </p>
+            <p n="31">31 He ſtandeth at the Beliefe, yet he hardly beleeveth what he ſtandeth to; elſe he would not be ſo ſevere to the members of Chriſt.</p>
+            <p n="32">
+               <pb n="7" facs="tcp:112092:5"/>
+               <!-- PDF PAGE 60 -->
+32 If he be a Heretick in any thing, it is in re-baptization, which he calleth Biſhopping, and yet ſtileth an Anabaptiſt an He<g ref="char:EOLhyphen"/>reticke.</p>
+            <p n="33">33 He doth with the Spirit conclude, that bodily exerciſe pro<g ref="char:EOLhyphen"/>fiteth nothing, and therefore limits both prayer and preaching be<g ref="char:EOLhyphen"/>fore Sermon, preciſely to an houre.</p>
+            <p n="34">34 He hateth his enthuſiaſtick fumaticks, who talk ſo much of the Spirit; and profeſſeth his skill of the Spirit in Philoſophy, to be confined to naturall, vitall, and animall; paſt animall he can<g ref="char:EOLhyphen"/>not goe: in Divinity, to the third Perſon in the Trinity, to the ſoule of good and bad men, to good and bad Angels; further he doth not know.</p>
+            <p n="35">35 God is no regarder of perſons, but requireth holineſſe on his dayes. Hee is a reſpecter of men, but holdeth all dayes a<g ref="char:EOLhyphen"/>like.</p>
+            <p n="36">36 Nay, he is not ſo great an enemy to Reformation as ſome think. For he ſtorms at the tyranny of the Engliſh-Church-government, which forceth a man againſt his conſcience to ſwear or to vow, and that three times, <hi>Nolo epiſcopari,</hi> I will not be a Biſhop; when (note the text) the Spirit ſaith, <hi>He that deſireth the office of a Biſhop, deſireth a good thing.</hi> He heartily wiſheth that the word Lollard in the Statute were turned into the word Puri<g ref="char:EOLhyphen"/>tane, for he would then make quick work.</p>
+            <p n="37">37 In ſhort, he is a great Divine. By his acute wit and deep learning he hath much facilitated the work of a Divine. For as <hi>Lewis</hi> the 11. reduceth all his King-learning to this, <hi>Qui neſcit diſſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulare, neſcit regnare,</hi> he that cannot diſſemble, cannot be a King; ſo hath he epitomized the neceſſary work of a Divine to this, <hi>Qui novit bene legere, novit bene praedicare,</hi> a good reader is a good Preacher; and indeed that is of greater conſequence than ſome think for: for if a man be come but to that heigth of learning that the Ordinary can ſay, <hi>Legit ut Clericus,</hi> he reades like a Clerke, he ſhall never ſee the Gallows. And here I think it will be high time to leave the Biſhop, leſt he ſhould ſay with the ſlave in the Poet, <hi>Ego vapulando, ille verborando;</hi> I with hearing, and
+<pb n="8" facs="tcp:112092:6"/>
+               <!-- PDF PAGE 61 -->you with relating the truth are weary: and ſo I conclude the Biſhops Character.</p>
+            <p n="38">38 But leſt after ages ſhould deſire to recall what wee labour to reject, and ſo our poſterity ſhould with the Ro<g ref="char:EOLhyphen"/>mans be forced to <hi>Solon</hi> and <hi>Athens</hi> for lawes, ſhould be forced to run to Rome for a Biſhop; give me leave to preſent you with a Recipe, which if you adminiſter to the right party, you ſhall ne<g ref="char:EOLhyphen"/>ver want a Biſhop whilſt the world ſtandeth.</p>
+            <div type="part">
+               <head>THE RECIPE.</head>
+               <p>
+                  <hi>Recipe</hi> 1. IN ſtead of the magiſtrall of Pearle, the magiſtrall of ſome of thoſe conſecrated ſtones which are to be found under the high Altar in Saint <hi>Pauls.</hi> Secondly, The ſcales of a conſecrated Clapper, almoſt mouldred to nothing by the peeviſhneſſe of a Scottiſh Puritane, which would not let the bels ring upon their Sabbath: of theſe two an equall quan<g ref="char:EOLhyphen"/>tity.</p>
+               <p n="2">2 Two ounces of the painting of the old Crucifix found in Chriſts Church three yeeres agoe. Secondly, all that quantity which remaineth of the ſcull of <hi>Bradford, Latimer, Ridley,</hi> and others of thoſe Hereticks that ſuffered under <hi>Bonner</hi> and <hi>Gar<g ref="char:EOLhyphen"/>diner,</hi> with halfe a pound of powder, which <hi>Faux</hi> laid treaſured up under the Parliament houſe.</p>
+               <p n="3">3 Put all theſe, with a ſufficient quantity of Puritanes eares, and the greaſie cover of a Singing-mans Common Prayer Booke, uſed by him in ſome great Cathedrall theſe ſeven laſt yeeres, into the Mitre ſent out of <hi>Italy</hi> lately, as a harbinger of what muſt have followed.</p>
+               <p n="4">4 Be carefull to lute this Mitre with three ſpoonfuls of a Plu<g ref="char:EOLhyphen"/>raliſts faſting ſpittle, with a ſalt chymically extracted, by a skil<g ref="char:EOLhyphen"/>full hand, out of the firſt ſquare cap that was worn by our Arch<g ref="char:EOLhyphen"/>biſhop after the Reformation.</p>
+               <p>
+                  <pb n="9" facs="tcp:112092:6"/>
+                  <!-- PDF PAGE 61 -->
+5 Set it on the fire at a Canonicall houre, and ſo double the heat at every Canonicall time, till theſe be boiled up to a perfect decoction.</p>
+               <p n="6">6 Dry it, but dry it only at an Eaſtern Sun, and when it is dry enough, then beat it into powder, and leſt any big<g ref="char:EOLhyphen"/>ger peeces ſhould remaine, ſcarce it in three ſeverall launes.</p>
+               <p n="7">7 Firſt, that Laune with which <hi>Flora</hi> the famous Ro<g ref="char:EOLhyphen"/>man ſtrumpet adorn'd her ſelfe in her greateſt glory. Se<g ref="char:EOLhyphen"/>condly, in that which <hi>Cleopatra</hi> a Queen and ſtrumpet of E<g ref="char:EOLhyphen"/>gypt dreſſed her ſelfe in when ſhee entertained <hi>Anthony.</hi> Thirdly, and laſtly, in a piece of the Laune of a Biſhops ſleeve, as famous for ſpirituall whoredome, as they for out<g ref="char:EOLhyphen"/>ward and bodily.</p>
+               <p n="8">8 When this powder is thus perfect, make it up into ſe<g ref="char:EOLhyphen"/>verall doſes, and wrap up everyone in a piece of Apocrypha Scripture. Adminiſter it upon All Saints day, or at leaſt up<g ref="char:EOLhyphen"/>on ſome Holyday.</p>
+               <p n="9">9 Then give it to ſome young man that hath read more <hi>Poſtills</hi> than other Commentators, of either as few as may be: who holdeth the Maſter of the Sentences, with <hi>Scotus,</hi> and <hi>Thomas,</hi> the onely learning, though he rather know their names, than their parts. Who reads <hi>Calvin</hi> to confute him, and commends <hi>Luthers</hi> violence farre above his con<g ref="char:EOLhyphen"/>ſcience. Who deemeth Orthodox Divinity the learning of fooles, but Arminianiſme, Socinianiſme, Pelagianiſme, a fit ſtudy for wits. Who thinketh Doctrine and Uſe the way indeed to ſave ſoules, but ſtrong lines the encomium of a rare Preacher. Who commendeth tenderneſſe of conſcience in him which refuſeth two livings, and yet keepeth three him<g ref="char:EOLhyphen"/>ſelfe. Who calls for obedience to the Church, and knoweth not what the Church is, neither careth to know what ſhee commands. Laſtly, who weareth a little band, a long
+<pb n="10" facs="tcp:112092:7"/>
+                  <!-- PDF PAGE 62 -->Caſſock, a little longer than his Cloake, a fine holliock for the knot of his girdle.</p>
+               <p n="10">10 Let this man but take for three mornings together three doſes of this powder, after he hath made three legs to the Eaſt, or to the Altar, and if he ſwallow not three Biſhopricks, with three <hi>Commendams</hi> to every one of them. I am groſly miſtaken.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
